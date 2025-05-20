@@ -10,53 +10,57 @@ Cada equipe desenvolveu um bot com personalidade única, um fluxo inteligente de
 
 ## 1 - Oswaldo
 
-<img src="img/Oswaldo.png" width="300">
+![Algoritmos](https://via.placeholder.com/400x200?text=Algoritmos+Básicos)
 
 **Quem sou eu:**
-Oswaldo, 58 anos, é conselheiro comunitário e guardião das histórias de Casa Amarela, bairro que conhece como a palma da mão. Com olhar atento e fala acolhedora, ele une tradição e tecnologia para valorizar a memória local, os pontos turísticos e a cultura viva do Recife.
 
-🔗 [Pode me acessar aqui](https://colab.research.google.com/drive/1DZ5uX0TQSNKX8TqHw9kZcXuD_kkWJW2g?usp=sharing)
+🔗 [Pode me acessar aqui](https://exemplo.com/atividade1)
 
-🔗 [Veja o meu processo de criação](https://miro.com/welcomeonboard/UW5XMEV2dlZENXpnL1BTTTJBNGFGVnloUnBZUnY1dHZTQVAwMXREMVBSNURIZnZkdDNpMXFFa0RZdnZybkw5RW5HY2lmN0FjaU9JVHRkMzllQTh4dnBXb09PajdOTWc5ak1ocHV6V2JEYVBGSU0wd2tXanNZeVpDY29BUDF6c0x0R2lncW1vRmFBVnlLcVJzTmdFdlNRPT0hdjE=?share_link_id=74498728458)
-
-Desenvolvedores:
-- [Adely Braz](https://github.com/Adelybraz)
-- [Gabriel Lima](https://github.com/Santliam)
-- [Lucas Mendes](https://github.com/Luc4s22)
-- [Lucas Ximenes](https://www.linkedin.com/in/lucas-ximenes/)
-
-## 2 - Anatoly Karpov Bartolomeu
-
-![image](https://github.com/user-attachments/assets/112553aa-bd2f-445a-8446-5e0a05d489c0)
-
-Sabe programar, entende de cultura pop, anime, política e história. É o tipo de cara que aprendeu Python no celular quebrado na lan house da quebrada, e hoje resolve bug de backend como quem resolve cubo mágico. Esportivo e animado, trabalha como personalbot nos fins de semanas e adora café.
-
-
-🔗 [Pode me acessar aqui](https://colab.research.google.com/drive/19_DAgSpw8hQELUtV_yCzGLQoTIo4tT-c?usp=sharing&classId=4d24f8e5-c395-4cf5-9265-aa48a0ae119f&assignmentId=ccc7f32b-695f-437d-ba69-51fbc8a34ff9&submissionId=a0d2c31a-6cc3-dd3d-5e00-67879e509e8d)
-
-🔗 [Veja o meu processo de criação](https://miro.com/app/board/uXjVI27DBhc=/?inviteKey=SWR3NzlHYktvU1F0WWxKSmdiWVJ3eGhQOU1wTVExNkRsenBneDFOckgrd2t2TFg4dFpIQllKamZtdTlzbFFKTFRHMUJiYW14VTJQR2h5dXBDS0JqM2kzUVZuQjREcGNYR29rN3paSW5yNDlJOEZnMUNMV21LdFoyMCtNTjVmWWZyVmtkMG5hNDA3dVlncnBvRVB2ZXBnPT0hdjE=)
+🔗 [Veja o meu processo de criação](https://exemplo.com/atividade1)
 
 Desenvolvedores:
-- [Thauan Bezerra](https://github.com/Thauan-rgb)
-- [Arthur Vinicius](https://github.com/viniciussna)
-- [Marcos Vinicius](https://github.com/Vinicius-stark)
-- [Marcelo Albuquerque](https://github.com/mbalbuquerque)
+- [nome](link)
+- [nome](link)
+- [nome](link)
+- [nome](link)
+- [nome](link)
+- [nome](link)
+
+## 2 - Neguin Tech
+
+![Algoritmos](https://via.placeholder.com/400x200?text=Algoritmos+Básicos)
+
+**Quem sou eu:**
+
+🔗 [Pode me acessar aqui](https://exemplo.com/atividade1)
+
+🔗 [Veja o meu processo de criação](https://exemplo.com/atividade1)
+
+Desenvolvedores:
+- [nome](link)
+- [nome](link)
+- [nome](link)
+- [nome](link)
+- [nome](link)
+- [nome](link)
 
 ## 3 - Sherlock
 
-<img src="https://github.com/user-attachments/assets/22523095-e834-4f18-a4be-0a790acc71f5" alt="Descrição" width="300"/>
+![Algoritmos](https://via.placeholder.com/400x200?text=Algoritmos+Básicos)
 
+**Quem sou eu:**
 
-**Quem sou eu:🕵️‍♂️ Elementar, meu caro... sou Sherlock Holmes, o maior detetive da história, e estou investigando o roubo de um quadro raríssimo — todas as pistas me trouxeram até você; então, cuidado com cada resposta, pois qualquer deslize pode revelar sua culpa. 🔎🖼️**
+🔗 [Pode me acessar aqui](https://exemplo.com/atividade1)
 
-🔗 [Pode me acessar aqui](https://colab.research.google.com/drive/1Xen29Ww9tM-53p9GNPPzGzb-H4g5ZD_O?usp=sharing)
-
-🔗 [Veja o meu processo de criação](https://www.figma.com/board/mVuRiWHWFHbXtJvDH6gR8C/Sem-t%C3%ADtulo?node-id=0-1&t=S8RmKCVjxiyCSc93-1)
+🔗 [Veja o meu processo de criação](https://exemplo.com/atividade1)
 
 Desenvolvedores:
-- [Homero Flávio Dubeux](https://www.linkedin.com/in/homeroflavio/)
-- [Joelson Jóse de Melo](https://www.linkedin.com/in/joelsonjosedev/)
-- [Jose Allamberg](https://github.com/berg2132)
+- [nome](link)
+- [nome](link)
+- [nome](link)
+- [nome](link)
+- [nome](link)
+- [nome](link)
 
 ## 4 - Eco Bot
 
@@ -64,7 +68,7 @@ Desenvolvedores:
 
 **Quem sou eu:**
 
-🔗 [Pode me acessar aqui](https://exemplo.com/atividad)
+🔗 [Pode me acessar aqui](https://exemplo.com/atividade1)
 
 🔗 [Veja o meu processo de criação](https://exemplo.com/atividade1)
 
@@ -78,22 +82,21 @@ Desenvolvedores:
 
 ## 5 - EcoMind
 
-![image](https://github.com/user-attachments/assets/18a4ed5c-b10e-4359-91ce-50bff9a37a9f)
+![Algoritmos](https://via.placeholder.com/400x200?text=Algoritmos+Básicos)
 
+**Quem sou eu:**
 
-**Quem sou eu:** Paulo, professor de Biologia, 30 anos, dá aulas para crianças do ensino fundamental e adolescentes do ensino médio.
-    É engajado em causas sustentáveis e gosta levar seus aprendizados sobre o tema para suas aulas.
+🔗 [Pode me acessar aqui](https://exemplo.com/atividade1)
 
-🔗 [Pode me acessar aqui](https://colab.research.google.com/drive/11GdpZaXpAsygI7K9fkA_YeFw6YYZ2SWJ?usp=sharing)
-
-🔗 [Veja o meu processo de criação](https://www.figma.com/board/JJ6WVjeIggdDV6UanenIth/FluxogramaChatbot?node-id=18-312&t=K3hPy9PLJOi66RUf-1)
+🔗 [Veja o meu processo de criação](https://exemplo.com/atividade1)
 
 Desenvolvedores:
-- [Anderson Bem](https://github.com/AndersonBem/AndersonBem)
-- [Danielle Barbosa](https://www.linkedin.com/in/danielle-barbosa-ba1551196?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-- [Luís Bezerra](https://github.com/luissbezerra/luissbezerra)
-- [Wendell Barboza](https://github.com/Wendell8708)
-
+- [nome](link)
+- [nome](link)
+- [nome](link)
+- [nome](link)
+- [nome](link)
+- [nome](link)
 
 ## 6 - Aurora
 
@@ -114,19 +117,20 @@ Desenvolvedores:
 - [nome](link)
 
 ## 7 - Carlos
-
-![Algoritmos](https://via.placeholder.com/400x200?text=Algoritmos+Básicos)
+<p align="center">
+  <img src="https://sdmntprcentralus.oaiusercontent.com/files/00000000-3448-61f5-b2b4-bdbe0b4f08af/raw?se=2025-05-20T01%3A19%3A49Z&sp=r&sv=2024-08-04&sr=b&scid=97a21999-8bc6-5770-8c69-f88ef424cfca&skoid=add8ee7d-5fc7-451e-b06e-a82b2276cf62&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-19T23%3A57%3A02Z&ske=2025-05-20T23%3A57%3A02Z&sks=b&skv=2024-08-04&sig=2%2B6aSzEkWVVGxbnL23gVpneKQaHnlg6KJ6APoq6IyE8%3D" width="250">
+</p>
 
 **Quem sou eu:**
 
-🔗 [Pode me acessar aqui](https://exemplo.com/atividade1)
+🔗 [Pode me acessar aqui](https://colab.research.google.com/drive/11vke_UgmC-2h6Jcw8hcy3duSsXVecRUu?usp=sharing)
 
-🔗 [Veja o meu processo de criação](https://exemplo.com/atividade1)
+🔗 [Veja o meu processo de criação](https://miro.com/app/board/uXjVIzOFHbI=/?share_link_id=806025111990)
 
 Desenvolvedores:
-- [nome](link)
-- [nome](link)
-- [nome](link)
+- [Iago Bezerra]()
+- [Samah Souza](https://github.com/samah13hhh)
+- [nome](https://github.com/BigITec)
 - [nome](link)
 - [nome](link)
 - [nome](link)
